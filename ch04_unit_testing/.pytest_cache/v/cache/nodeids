@@ -1,0 +1,5 @@
+[
+  "test_primes.py::PrimesTestCase::test_is_five_prime",
+  "test_primes.py::PrimesTestCase::test_is_four_non_prime",
+  "test_primes.py::PrimesTestCase::test_is_zero_not_prime"
+]
